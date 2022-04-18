@@ -1,0 +1,511 @@
+
+
+@media only screen and (min-width:480px) and (max-width:639px){
+
+body{
+ background-color:none;
+}
+
+.Hero__title_section{ 
+position: absolute;
+transform: translate(-50%,-50%);
+top: 55%;
+width: 80%;
+text-align: left;
+left: 50%;
+
+}
+
+#name{
+margin-left: 20px;
+}
+
+.Hero__title_section h1{
+font-family:'Poppins',sans-serif;
+font-size:30px;
+font-weight: bold;
+line-height: 45px;
+letter-spacing: 1.5px;
+color: #FFF;
+}
+
+.Hero__title_section p{
+font-family:'Poppins',sans-serif;
+font-size: 13px;
+font-weight:500;
+letter-spacing: 1.2px;
+color: #E7e7e7;
+opacity: 0.6;
+padding:0px 0px;
+width: 100%;
+text-align:left;
+
+}
+
+.About__section{
+padding: 10px;
+margin-top: 40px;
+}
+
+
+/*=========== About Section =========*/
+
+.About__section{
+padding: 10px;
+margin-top: 40px;
+margin-bottom:50px;
+}
+
+
+.about_title h1{
+font-family:'Poppins',sans-serif;
+font-size:35px;
+font-weight: bold;
+line-height: 45px;
+letter-spacing: 1.5px;
+color: #051446;
+}
+
+
+
+.image22{
+display: none;
+}
+
+
+.box22::before{
+    display: none;
+}
+
+
+/*=========== Service  Section =========*/
+
+
+.Service__section{
+background-color:#f9f9f9;
+padding: 5px;
+
+
+}
+
+.Our__service__title{
+text-align: center;
+padding: 20px;
+margin-top: 50px;
+}
+
+
+.para__11{
+text-align: center;
+width:100%;
+}
+
+.Hero__service__cover__box{
+margin-bottom: 50px;
+}
+
+
+.card__1{
+margin: 10px;
+width: 100%;
+}
+
+
+
+
+
+ /*=========== Recent Project =========*/
+
+
+
+.Recent__Projects{
+padding: 10px;
+}
+
+
+/*=========== Recent Project =========*/
+
+
+.Recent__project__title{
+margin-top: 30px;
+}
+
+.recent__project__img img{
+width: 100%;
+height: 300px;
+ }
+
+
+.Recent__project__title h1{
+    margin-left: 20px;
+}
+
+.Recent__project__card{
+margin: 10px;
+}
+
+
+
+ .recent__project__title{
+   background-color:white;
+   padding: 30px;
+   box-shadow:0  5px 10px rgba(154,160,185,0.05),
+  0 15px 40px rgba(166,173,201,0.2);
+   margin-top: 10px;
+     font-family:'Poppins',sans-serif;
+font-size:18px;
+font-weight: bold;
+line-height: 45px;
+letter-spacing: 1.5px;
+color: #051446;
+line-height: 0px;
+ }
+
+
+
+
+ /*=========== nnovative__section =========*/
+
+ .content__recent__project{
+   margin-top: 60px;
+   margin-bottom: 100px;
+ }
+
+
+ .Innovative__section{
+background-color: #051446;
+padding:20px;
+height: 500px;
+position: relative;
+ }
+
+.stylish__section h1{
+      font-family:'Poppins',sans-serif;
+font-size:35px;
+font-weight: bold;
+line-height: 45px;
+letter-spacing: 1.5px;
+color: #FFF;
+line-height: 50px;
+margin-left: 40px;
+   }
+
+
+.stylish__img{
+display: none;
+}
+
+
+ /*=========== Contact Form =========*/
+
+
+.contact__form{
+margin-top: 50px;
+padding: 10px;
+}
+
+.input__name{
+    padding: 20px 30px;
+    width:93%;
+    background:linear-gradient(rgba(222,51,46,0.1),rgba(222,51,46,0.1));
+    border: none;
+    margin: 10px;
+    border-radius: 3px;
+   color: #191919;
+   font-family:'Poppins',sans-serif;
+    font-size: 13px;
+    font-weight:500;
+    letter-spacing: 1.2px;
+
+}
+
+
+.contact__msg{
+margin: 10px;
+border: none;
+padding: 20px 30px;
+width:92%;
+ background:linear-gradient(rgba(222,51,46,0.1),rgba(222,51,46,0.1));
+}
+
+
+
+
+
+
+
+ /*=========== Footers =========*/
+
+ footer{
+background-color:#051446;
+padding: 0px;
+ }
+
+
+
+.Footer__title{
+width: 100%;
+padding: 50px 0px 0px 0px;
+margin: 0 auto;
+margin-top: 50px;
+line-height:30px;
+
+ }
+
+
+ .footer__social__icon{
+margin-top: 30px;
+margin-bottom: 50px;
+
+}
+
+.underline__33{
+    color: white;
+    background: red;
+}
+
+.footer__social__icon a{
+ padding: 10px 10px;
+ margin: 10px;
+ border-radius: 50px;
+
+}
+
+.copyright{
+background: linear-gradient(rgba(18,18,18,.4),rgba(18,18,18,.4));
+padding: 30px;
+color: white;
+font-family:'Poppins',sans-serif;
+font-size:15px;
+font-weight:500;
+letter-spacing: 1.5px;
+
+
+}
+
+
+.navbar-light .navbar-toggler {
+    color: rgb(168 48 48 / 50%);
+    border-color: rgb(0 0 0 / 0%);
+}
+
+
+ }
+
+
+ @media only screen and (max-width:479px) {
+
+.Hero__title_section{ 
+position: absolute;
+transform: translate(-50%,-50%);
+top: 55%;
+width: 80%;
+text-align: left;
+left: 50%;
+
+}
+
+#name{
+margin-left: 20px;
+}
+
+.Hero__title_section h1{
+font-family:'Poppins',sans-serif;
+font-size:25px;
+font-weight: bold;
+line-height: 45px;
+letter-spacing: 1.5px;
+color: #FFF;
+}
+
+.Hero__title_section p{
+font-family:'Poppins',sans-serif;
+font-size: 13px;
+font-weight:500;
+letter-spacing: 1.2px;
+color: #E7e7e7;
+opacity: 0.6;
+padding:0px 0px;
+width: 100%;
+text-align:left;
+
+}
+
+
+/*=========== About Section =========*/
+
+.About__section{
+padding: 10px;
+margin-top: 40px;
+margin-bottom:50px;
+}
+
+
+.about_title h1{
+font-family:'Poppins',sans-serif;
+font-size:30px;
+font-weight: bold;
+line-height:35px;
+letter-spacing: 1.5px;
+color: #051446;
+}
+
+
+
+.image22{
+display: none;
+}
+
+
+.box22::before{
+    display: none;
+}
+
+/*=========== Service  Section =========*/
+
+
+.Service__section{
+background-color:#f9f9f9;
+padding:0px;
+
+
+}
+
+.Our__service__title{
+text-align: center;
+padding: 0px;
+margin-top: 50px;
+}
+
+
+.para__11{
+text-align: center;
+width:100%;
+}
+
+.Hero__service__cover__box{
+margin-bottom: 50px;
+}
+
+
+.card__1{
+margin: 10px;
+width: 100%;
+}
+
+
+
+
+
+
+
+
+.Recent__Projects{
+padding: 0px;
+}
+
+
+.recent__project__img img{
+width:100%;
+height: 300px;
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   .stylish__section h1{
+      font-family:'Poppins',sans-serif;
+font-size:10px;
+font-weight: bold;
+line-height: 45px;
+letter-spacing: 1.5px;
+color: #FFF;
+line-height: 50px;
+margin-left: 40px;
+   }
+
+
+.stylish__img{
+display: none;
+}
+.para__11{
+    width: 100%;
+}
+
+.box22::before{
+    display: none;
+}
+
+.image22{
+display: none;
+}
+
+ footer{
+    display: none;
+ }
+
+ .contact__msg{
+width: 100%;
+
+ }
+
+
+
+
+
+
+
+}
+
